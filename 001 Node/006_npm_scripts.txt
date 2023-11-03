@@ -1,0 +1,7 @@
+npm init to convert current folder into npm project
+
+start is a reserved keyword (special case) in npm. So run only npm start.
+
+For start-server or any custome scripts like that, run npm run start-server
+
+If want to try execution here, rename 006_package.json to package.json then run the above npm scripts.
